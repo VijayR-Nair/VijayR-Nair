@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Vijay 👋
+Edge AI Engineer · Smart Sensors · TinyML
+I'm a Master's graduate in AI for Smart Sensors and Actuators (Hochschule Deggendorf), passionate about deploying intelligent systems on resource-constrained hardware — where machine learning meets the physical world.
+My thesis was developed in collaboration with Fraunhofer IVV, building a portable gas chromatography device with sensor data processing, PCA, and on-device ML inference.
 
-<!--
-**VijayR-Nair/VijayR-Nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 What I Build
 
-Here are some ideas to get you started:
+Real-time ML inference on microcontrollers (ESP32, Arduino)
+Sensor data pipelines — acquisition, processing, feature extraction
+Computer vision systems for edge deployment
+IoT systems that work without the cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Featured Projects
+📟 Analogue Display Recognition System
+Real-time meter reading using ESP32-CAM + computer vision · 98% accuracy · Currently optimising for full on-device inference via quantization & pruning
+🧪 Portable GC Device (Fraunhofer IVV)
+End-to-end sensor system with PCA-based feature extraction and ML classification · Built for real-world field deployment
+
+🛠️ Tools & Technologies
+Python TensorFlow Lite Edge Impulse TinyML ESP32 OpenCV scikit-learn Git
+
+📫 Let's Connect

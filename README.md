@@ -1,23 +1,18 @@
-Hi, I'm Vijay 👋
-Edge AI Engineer · Smart Sensors · TinyML
-I'm a Master's graduate in AI for Smart Sensors and Actuators (Hochschule Deggendorf), passionate about deploying intelligent systems on resource-constrained hardware — where machine learning meets the physical world.
-My thesis was developed in collaboration with Fraunhofer IVV, building a portable gas chromatography device with sensor data processing, PCA, and on-device ML inference.
-
-🔧 What I Build
-
-Real-time ML inference on microcontrollers (ESP32, Arduino)
-Sensor data pipelines — acquisition, processing, feature extraction
-Computer vision systems for edge deployment
-IoT systems that work without the cloud
+# 💫 About Me:
+Hi, I'm Vijay 👋<br>Edge AI Engineer · Smart Sensors · TinyML<br>I'm a Master's graduate in AI for Smart Sensors and Actuators (Hochschule Deggendorf), passionate about deploying intelligent systems on resource-constrained hardware — where machine learning meets the physical world.<br>My thesis was developed in collaboration with Fraunhofer IVV, building a portable gas chromatography device with sensor data processing, PCA, and on-device ML inference.<br><br>🔧 What I Build<br><br>Real-time ML inference on microcontrollers (ESP32, Arduino)<br>Sensor data pipelines — acquisition, processing, feature extraction<br>Computer vision systems for edge deployment<br>IoT systems that work without the cloud<br><br><br>🚀 Featured Projects<br>📟 Analogue Display Recognition System<br>Real-time meter reading using ESP32-CAM + computer vision · 98% accuracy · Currently optimising for full on-device inference via quantization & pruning<br>🧪 Portable GC Device (Fraunhofer IVV)<br>End-to-end sensor system with PCA-based feature extraction and ML classification · Built for real-world field deployment<br><br>🛠️ Tools & Technologies<br>Python TensorFlow Lite Edge Impulse TinyML ESP32 OpenCV scikit-learn Git<br><br>📫 Let's Connect
 
 
-🚀 Featured Projects
-📟 Analogue Display Recognition System
-Real-time meter reading using ESP32-CAM + computer vision · 98% accuracy · Currently optimising for full on-device inference via quantization & pruning
-🧪 Portable GC Device (Fraunhofer IVV)
-End-to-end sensor system with PCA-based feature extraction and ML classification · Built for real-world field deployment
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vjayrn) 
 
-🛠️ Tools & Technologies
-Python TensorFlow Lite Edge Impulse TinyML ESP32 OpenCV scikit-learn Git
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VijayR-Nair&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VijayR-Nair&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VijayR-Nair&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-📫 Let's Connect
+---
+[![](https://komarev.com/ghpvc/?username=VijayR-Nair&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
